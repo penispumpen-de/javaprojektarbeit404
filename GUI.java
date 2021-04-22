@@ -22,7 +22,7 @@ public class GUI extends JFrame implements ActionListener {
 
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setSize(300, 300);
-		setTitle("Würfelspiel Projekt");
+		setTitle("Würfelspiel Projekt Java 404");
 
 		// Objekte Positionieren
 		wuerfeln.setBounds(100, 220, 100, 20);
