@@ -6,7 +6,7 @@ public class Würfel {
         return points;
     }
 
-    public int rollTheDice(){
+    public int wuerfeln(){
         int randomNumber = (int) (Math.random() * 6 + 1);
         points += randomNumber;
         return randomNumber;
